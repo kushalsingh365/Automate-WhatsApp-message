@@ -1,0 +1,10 @@
+import pywhatkit
+pywhatkit.sendwhatmsg('+91*********','+++++++',$$,@@)
+
+# firstly you install pywhatkit
+# using pip install pywhatkit 
+# mention 
+# ******** = Mobile Number of person
+# ++++++++ = Your message like Happy Birthday or anything you want to send.
+# $$ = hours in 24 hours format
+# @@ = minutes
